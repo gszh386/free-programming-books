@@ -1,4 +1,5 @@
 #List of Free Learning Resources
+我要找的资料在：Free-programming-books.md
 ##Intro
 If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
 And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).
